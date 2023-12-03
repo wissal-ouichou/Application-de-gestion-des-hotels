@@ -11,6 +11,9 @@ Voici la base de données constituée de deus tables qui sont ville et hotel et 
     <img width="958" alt="GestionVilleAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6c170d49-f62f-402e-860d-af5c48be5f95">
     <img width="959" alt="gestionVilleAprAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6efe5cc8-e643-436f-91d4-e8c5075aaaa0">
     <img width="728" alt="BDVilleAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/80300c52-21e2-47fc-a295-ff37b28f4dc9">
+  # Suppression des villes :
+     <img width="959" alt="VilleSuppression" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/4907f01c-7d01-456c-8a45-7c9026d152e9">
+     <img width="728" alt="BDVilleAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/4c3b0db8-0d97-4334-8620-e1d50f349fd7">
   # Modification des villes :
      <img width="959" alt="GestionVilleModif" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6e11bed8-48e4-4fb6-ab8a-d06d891e39c1">
      <img width="959" alt="GestionVilleAprModif" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/28e3e0ca-f1f2-43c9-a9c1-a03a309cc074">
