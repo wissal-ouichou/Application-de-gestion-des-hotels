@@ -26,4 +26,7 @@ Voici la base de données constituée de deus tables qui sont ville et hotel et 
     <img width="949" alt="EnregistrementHotel" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/90acce2d-797f-4be6-8b5e-08c6460c0bfc">
     <img width="949" alt="EnregistrementHotels" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/e0601a9a-b3e1-4938-8cc5-5a0e67a09b2f">
     <img width="729" alt="BDHotelAprAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/43233ffa-0f88-4936-a482-fece3a966b7d">
+  # Modification des hotels :
+      <img width="949" alt="GestionHotelPage" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/24d90cac-f090-498e-a789-e1207827e2a4">
+      <img width="728" alt="BDAprModif" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/5525755b-9a6a-434b-8898-bb6b0f64855a">
      
