@@ -1,6 +1,6 @@
 # Application-de-gestion-des-hotels
 # Fonctionnalité de cette application :
-Cette application permet de gérer les villes et les hotels en les ajoutant, les modifiant ou les supprimant de la base de données appelée jsr ainsi le filtrage des hotels par ville pour faciliter plus la gestion des hotels.
+Cette application qui utilise EJB(Entreprise JavaBeans) permet de gérer les villes et les hotels en les ajoutant, les modifiant ou les supprimant de la base de données appelée jsr ainsi le filtrage des hotels par ville pour faciliter plus la gestion des hotels.
 # La base de données jsr :
 Voici la base de données constituée de deus tables qui sont ville et hotel et la relation entre ces deux entités ou une ville peut contenir plusieurs hotels;
 <img width="745" alt="BDJsr1" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6d4cbdc9-fe0e-4338-867b-14beea5221cf">
@@ -32,4 +32,10 @@ Voici la base de données constituée de deus tables qui sont ville et hotel et 
   # Modification des hotels :
     <img width="949" alt="GestionHotelPage" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/24d90cac-f090-498e-a789-e1207827e2a4">
     <img width="728" alt="BDAprModif" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/5525755b-9a6a-434b-8898-bb6b0f64855a">
+
+ # Filtrage des hotels par ville :
+    <img width="946" alt="GestionHotelapreschampVille" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/a16f786e-5d8c-4ce6-97be-26cae39b934d">
+    <img width="947" alt="GestionHotelPage2" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/d05aa4a3-5459-47e3-884b-805592f3016f">
+    <img width="947" alt="GestionHotelFiltrage" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/4939834c-840b-4829-b6b2-d8752700b57e">
+
      
