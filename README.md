@@ -10,24 +10,23 @@ Voici la base de données constituée de deus tables qui sont ville et hotel et 
   # Ajout des villes :
     Les villes sont caractérisées par un id et un nom ;
     
-    <img width="958" alt="GestionVilleAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6c170d49-f62f-402e-860d-af5c48be5f95">
-    <img width="959" alt="gestionVilleAprAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6efe5cc8-e643-436f-91d4-e8c5075aaaa0">
-    <img width="728" alt="BDVilleAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/80300c52-21e2-47fc-a295-ff37b28f4dc9">
+<img width="958" alt="GestionVilleAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6c170d49-f62f-402e-860d-af5c48be5f95">
+<img width="959" alt="gestionVilleAprAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6efe5cc8-e643-436f-91d4-e8c5075aaaa0">
+<img width="728" alt="BDVilleAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/80300c52-21e2-47fc-a295-ff37b28f4dc9">
   # Suppression des villes :
      <img width="959" alt="VilleSuppression" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/4907f01c-7d01-456c-8a45-7c9026d152e9">
      <img width="728" alt="BDVilleAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/4c3b0db8-0d97-4334-8620-e1d50f349fd7">
   # Modification des villes :
-     <img width="959" alt="GestionVilleModif" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6e11bed8-48e4-4fb6-ab8a-d06d891e39c1">
-     <img width="959" alt="GestionVilleAprModif" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/28e3e0ca-f1f2-43c9-a9c1-a03a309cc074">
-     <img width="728" alt="BDAprModifVille" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/2cdf1148-408e-48c0-a010-a3c907736a17">
+<img width="959" alt="GestionVilleModif" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/6e11bed8-48e4-4fb6-ab8a-d06d891e39c1"><img width="959" alt="GestionVilleAprModif" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/28e3e0ca-f1f2-43c9-a9c1-a03a309cc074">
+<img width="728" alt="BDAprModifVille" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/2cdf1148-408e-48c0-a010-a3c907736a17">
 # Les méthodes CRUD de HOTEL :
-     <img width="949" alt="GestionHotelPage" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/24d90cac-f090-498e-a789-e1207827e2a4">
+ <img width="949" alt="GestionHotelPage" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/24d90cac-f090-498e-a789-e1207827e2a4">
    # Ajout des hotels :
      Chaque hotel est caractérisé par un id, un nom, une adresse, un télépone et une ville dans laquelle il se trouve ;
-    <img width="946" alt="AjoutHotel" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/498ae9c8-abf2-432c-8df1-f25ca3cc77b9">
-    <img width="949" alt="EnregistrementHotel" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/90acce2d-797f-4be6-8b5e-08c6460c0bfc">
-    <img width="949" alt="EnregistrementHotels" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/e0601a9a-b3e1-4938-8cc5-5a0e67a09b2f">
-    <img width="729" alt="BDHotelAprAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/43233ffa-0f88-4936-a482-fece3a966b7d">
+  <img width="946" alt="AjoutHotel" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/498ae9c8-abf2-432c-8df1-f25ca3cc77b9">
+  <img width="949" alt="EnregistrementHotel" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/90acce2d-797f-4be6-8b5e-08c6460c0bfc">
+<img width="949" alt="EnregistrementHotels" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/e0601a9a-b3e1-4938-8cc5-5a0e67a09b2f">
+<img width="729" alt="BDHotelAprAjout" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/43233ffa-0f88-4936-a482-fece3a966b7d">
   # Suppression des hotels :
    <img width="947" alt="AjoutHotel2" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/84e0e960-6281-42c0-a082-971d09581fbd">
    <img width="948" alt="SuppressionHotel2" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/f7cf01d6-8d09-4849-9761-007fadef2d4f">
@@ -36,8 +35,8 @@ Voici la base de données constituée de deus tables qui sont ville et hotel et 
     <img width="728" alt="BDAprModif" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/5525755b-9a6a-434b-8898-bb6b0f64855a">
 
  # Filtrage des hotels par ville :
-    <img width="946" alt="GestionHotelapreschampVille" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/a16f786e-5d8c-4ce6-97be-26cae39b934d">
-    <img width="947" alt="GestionHotelPage2" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/d05aa4a3-5459-47e3-884b-805592f3016f">
-    <img width="947" alt="GestionHotelFiltrage" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/4939834c-840b-4829-b6b2-d8752700b57e">
+<img width="946" alt="GestionHotelapreschampVille" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/a16f786e-5d8c-4ce6-97be-26cae39b934d">
+<img width="947" alt="GestionHotelPage2" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/d05aa4a3-5459-47e3-884b-805592f3016f">
+<img width="947" alt="GestionHotelFiltrage" src="https://github.com/wissal-ouichou/Application-de-gestion-des-hotels/assets/147499172/4939834c-840b-4829-b6b2-d8752700b57e">
 
      
